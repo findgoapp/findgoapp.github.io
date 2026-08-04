@@ -1,1 +1,191 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Eliminación de Cuenta - FindGo</title>
 
+<style>
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    background:#f4f6f9;
+    color:#333;
+}
+
+header{
+    background:#0D6EFD;
+    color:white;
+    padding:30px;
+    text-align:center;
+}
+
+.container{
+    max-width:900px;
+    margin:30px auto;
+    background:white;
+    padding:35px;
+    border-radius:10px;
+    box-shadow:0 2px 8px rgba(0,0,0,.15);
+}
+
+h2{
+    color:#0D6EFD;
+}
+
+h3{
+    color:#1d3557;
+}
+
+ol{
+    line-height:1.8;
+}
+
+ul{
+    line-height:1.8;
+}
+
+.info{
+    background:#eef6ff;
+    border-left:5px solid #0D6EFD;
+    padding:15px;
+    margin-top:20px;
+}
+
+footer{
+    margin-top:40px;
+    text-align:center;
+    color:#666;
+    font-size:14px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>FindGo</h1>
+
+<p>Proceso de Eliminación de Cuenta</p>
+
+</header>
+
+<div class="container">
+
+<h2>Eliminar una cuenta de FindGo</h2>
+
+<p>
+En FindGo respetamos el derecho de nuestros usuarios a eliminar su cuenta y los datos personales asociados en cualquier momento.
+La eliminación de la cuenta se realiza directamente desde la aplicación móvil.
+</p>
+
+<hr>
+
+<h2>Usuarios registrados como Negocio</h2>
+
+<ol>
+
+<li>Inicie sesión en FindGo como negocio.</li>
+
+<li>En la pantalla principal del mapa, presione el botón de menú (tres puntos) ubicado en la parte superior derecha.</li>
+
+<li>Seleccione la opción <strong>Eliminar cuenta</strong>.</li>
+
+<li>Confirme que desea eliminar su cuenta.</li>
+
+<li>Una vez confirmada la acción, su cuenta y los datos asociados serán eliminados permanentemente.</li>
+
+</ol>
+
+<hr>
+
+<h2>Usuarios registrados como Cliente</h2>
+
+<p>
+Si inició sesión utilizando su cuenta de Google, también puede eliminar su cuenta directamente desde la aplicación.
+</p>
+
+<ol>
+
+<li>Inicie sesión en FindGo.</li>
+
+<li>Ingrese a su perfil o configuración de la cuenta.</li>
+
+<li>Seleccione <strong>Eliminar cuenta</strong>.</li>
+
+<li>Confirme la eliminación.</li>
+
+<li>La cuenta y la información almacenada por FindGo serán eliminadas permanentemente.</li>
+
+</ol>
+
+<hr>
+
+<h2>¿Qué información se elimina?</h2>
+
+<ul>
+
+<li>Nombre.</li>
+
+<li>Correo electrónico.</li>
+
+<li>Número de teléfono (si fue registrado).</li>
+
+<li>Foto de perfil almacenada por FindGo.</li>
+
+<li>Perfil del usuario o negocio.</li>
+
+<li>Información almacenada en Firebase Realtime Database.</li>
+
+<li>Cuenta registrada en Firebase Authentication.</li>
+
+</ul>
+
+<div class="info">
+
+<strong>Importante:</strong><br><br>
+
+Si inició sesión con una cuenta de Google, únicamente se elimina su cuenta dentro de FindGo.
+Su cuenta de Google (Gmail) no será eliminada, ya que pertenece a Google y no a FindGo.
+
+</div>
+
+<hr>
+
+<h2>Tiempo de eliminación</h2>
+
+<p>
+
+La eliminación de la cuenta y de los datos asociados se realiza inmediatamente después de confirmar la solicitud desde la aplicación.
+
+</p>
+
+<hr>
+
+<h2>Contacto</h2>
+
+<p>
+
+Si presenta algún inconveniente para eliminar su cuenta, puede comunicarse con nosotros mediante el siguiente correo electrónico:
+
+</p>
+
+<p>
+
+<strong>soporte@findgo.pe</strong>
+
+</p>
+
+</div>
+
+<footer>
+
+© 2026 FindGo. Todos los derechos reservados.
+
+</footer>
+
+</body>
+
+</html>
